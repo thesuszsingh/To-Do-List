@@ -57,7 +57,7 @@ section #list {
     border-radius: 40px;
     background-color: transparent;
     white-space: nowrap;
-    overflow: scroll;
+    overflow: hidden;
     text-overflow: clip;
     scroll-behavior: smooth;
     box-shadow: 2px 3px 15px 0 #15adf4 inset, 2px 3px 5px 0 #15f4ee, 2px 3px 5px 0 #15f4ed, 5px 3px 15px 0 #15f472;
